@@ -1,2 +1,3 @@
-# Belajar-API-omdb
-menggunakan omdbapi untuk membuat aplikasi pencarian film
+## Belajar-API-omdb
+
+sebuah program untuk mencari sebuah film / movie dengan bantuan OmdbApi : http://omdbapi.com
